@@ -8,8 +8,6 @@
     <packaging>war</packaging>
     <name>webproject</name>
 
-    <properties>
-    </properties>
 
     <dependencies>
       
